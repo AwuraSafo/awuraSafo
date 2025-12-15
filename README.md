@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I’m Awura 👋🏽
 
-<!--
-**AwuraSafo/awuraSafo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring Intelligent Systems Engineer, passionately exploring artificial intelligence
+and automated systems. I’ve begun learning and building on my own, driven by curiosity
+and a love for everything related to intelligent technologies.
 
-Here are some ideas to get you started:
+My interests and projects focus on:
+- Human-centered and ethical AI
+- Intelligent and automated systems
+- Storytelling as a tool to explain complex technologies
+- Python, JavaScript, and web development projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub is my playground for learning, experimenting, and showcasing projects that combine creativity, technology, and problem-solving.
