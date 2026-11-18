@@ -1,13 +1,15 @@
-# Hi, I’m Awura 👋🏽
+Hi, I'm Awura! Welcome to my GitHub. 
 
-I am an aspiring Intelligent Systems Engineer, passionately exploring artificial intelligence
-and automated systems. I’ve begun learning and building on my own, driven by curiosity
-and a love for everything related to intelligent technologies.
+I'm passionate about technology, exploring how AI, data, and intelligent systems can turn ideas into practical solutions.
+I enjoy experimenting with new technologies, building digital solutions, solving problems, and learning by doing.
 
-My interests and projects focus on:
-- Human-centered and ethical AI
-- Intelligent and automated systems
-- Storytelling as a tool to explain complex technologies
-- Python, JavaScript, and web development projects
+Interests: 
 
-This GitHub is my playground for learning, experimenting, and showcasing projects that combine creativity, technology, and problem-solving.
+	Artificial Intelligence & NLP
+	Data Analytics
+	Intelligent Systems & Automation
+	IoT & Smart Technologies
+	Human-Centred Technology
+  
+Always curious, always building, always learning.
+
